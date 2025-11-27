@@ -1,0 +1,15 @@
+# Windows System files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ADB Platform Tools (We don't want to upload Google's files)
+adb.exe
+fastboot.exe
+AdbWinApi.dll
+AdbWinUsbApi.dll
+source.properties
+
+# Logs and Temporary files
+*.log
+*.tmp
